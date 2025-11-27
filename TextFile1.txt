@@ -1,0 +1,4 @@
+
+-userýn girdiði deðer defaultta string olduðu için inte convert edilmiþ
+                sayilar[i] = Convert.ToInt32(Console.ReadLine());
+
